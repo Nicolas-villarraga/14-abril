@@ -8,6 +8,21 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>listado de usurios registrado en la base de datos</h1>
+    <div class="container">
+        <div class="rom">
+            <col-md-12>
+            <table>
+            <thead>
+            <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>lastname</th>
+            <th>email</th>
+            </tr>
+            </thead>
+            </table>
+            </col-md-12>
+        </div>
+    </div>
 </body>
 </html>
